@@ -50,10 +50,10 @@ ML-Learning-Path/
 🟢 Module 1: Introduction to Machine Learning (Week 1)
 
 
-  ✔ What is ML?
-  ✔ Types of ML: Supervised, Unsupervised, Reinforcement Learning
-  ✔ ML vs. Traditional Programming
-  ✔ Installing Libraries: scikit-learn, TensorFlow, PyTorch
+  ✔ What is ML? <br>
+  ✔ Types of ML: Supervised, Unsupervised, Reinforcement Learning <br>
+  ✔ ML vs. Traditional Programming <br>
+  ✔ Installing Libraries: scikit-learn, TensorFlow, PyTorch <br>
   ✔ Setting up Jupyter Notebook
 
 Assignment: Implement a simple ML model using scikit-learn.
