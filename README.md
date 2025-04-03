@@ -3,12 +3,14 @@
 
 # 🚀 My Machine Learning Journey  
 
-Welcome to my **Machine Learning Learning Path**! 🌟 This repository documents my journey in learning ML from fundamentals to advanced topics, including real-world projects.  
+Welcome to my **Machine Learning Learning Path**! 
+
+🌟 This repository documents my journey in learning ML from fundamentals to advanced topics, including real-world projects.  
 
 ---
 
 ## 🏆 Introduction  
-Machine Learning (ML) is transforming the world! From **recommendation systems** to **self-driving cars**, ML is powering innovation across industries.  
+  Machine Learning (ML) is transforming the world! From **recommendation systems** to **self-driving cars**, ML is powering innovation across industries.  
 
 ### Why am I learning ML?  
 ✔ To build **AI-driven applications**  
@@ -46,6 +48,8 @@ ML-Learning-Path/
 
 ```
 🟢 Module 1: Introduction to Machine Learning (Week 1)
+
+
 ✔ What is ML?
 ✔ Types of ML: Supervised, Unsupervised, Reinforcement Learning
 ✔ ML vs. Traditional Programming
@@ -55,6 +59,8 @@ ML-Learning-Path/
 Assignment: Implement a simple ML model using scikit-learn.
 
 🟠 Module 2: Data Preprocessing & Feature Engineering (Week 2-3)
+
+
 ✔ Handling Missing Values (SimpleImputer)
 ✔ Feature Scaling (StandardScaler, MinMaxScaler)
 ✔ Handling Categorical Data (OneHotEncoder, LabelEncoder)
@@ -64,6 +70,8 @@ Assignment: Implement a simple ML model using scikit-learn.
  Assignment: Preprocess a dataset and visualize the cleaned data.
 
 🟡 Module 3: Supervised Learning Algorithms (Week 4-6)
+
+
  Regression Models
 ✔ Linear Regression (Single & Multiple)
 ✔ Polynomial Regression
@@ -80,6 +88,8 @@ Assignment: Implement a simple ML model using scikit-learn.
  Project: Predict House Prices using Regression Models.
 
 🟣 Module 4: Unsupervised Learning Algorithms (Week 7-8)
+
+
  Clustering
 ✔ K-Means Clustering
 ✔ DBSCAN
@@ -92,6 +102,8 @@ Assignment: Implement a simple ML model using scikit-learn.
  Project: Customer Segmentation for E-Commerce.
 
 🔵 Module 5: Neural Networks & Deep Learning (Week 9-12)
+
+
 ✔ Introduction to Artificial Neural Networks (ANNs)
 ✔ Activation Functions (ReLU, Sigmoid, Tanh, Softmax)
 ✔ Building a Neural Network from Scratch
@@ -102,6 +114,8 @@ Assignment: Implement a simple ML model using scikit-learn.
  Project: Build an Image Classifier using CNN.
 
 🟤 Module 6: Reinforcement Learning (Week 13-14)
+
+
 ✔ Markov Decision Processes (MDP)
 ✔ Q-Learning
 ✔ Deep Q Networks (DQN)
@@ -110,6 +124,8 @@ Assignment: Implement a simple ML model using scikit-learn.
  Project: Train an AI to play a simple game.
 
 🟠 Module 7: Advanced Topics (Week 15-18)
+
+
 ✔ Generative AI (GANs, Transformers, LLMs like GPT)
 ✔ Explainable AI (XAI)
 ✔ AI Ethics & Bias
