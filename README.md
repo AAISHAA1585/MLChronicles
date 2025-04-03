@@ -146,7 +146,6 @@ Assignment: Implement a simple ML model using scikit-learn.
 ## 🚀 How to Run the Projects  
 
 ### 1️⃣ Clone the Repository  <br>
-```bash
 git clone https://github.com/AAISHAA1585/MLChronicles.git<br>
 cd MLChronicles<br>
 
