@@ -61,10 +61,10 @@ Assignment: Implement a simple ML model using scikit-learn.
 🟠 Module 2: Data Preprocessing & Feature Engineering (Week 2-3)
 
 
-✔ Handling Missing Values (SimpleImputer)
-✔ Feature Scaling (StandardScaler, MinMaxScaler)
-✔ Handling Categorical Data (OneHotEncoder, LabelEncoder)
-✔ Feature Selection (PCA, LDA)
+✔ Handling Missing Values (SimpleImputer) <br>
+✔ Feature Scaling (StandardScaler, MinMaxScaler) <br>
+✔ Handling Categorical Data (OneHotEncoder, LabelEncoder) <br>
+✔ Feature Selection (PCA, LDA) <br>
 ✔ Outlier Detection (Z-score, IQR)
 
  Assignment: Preprocess a dataset and visualize the cleaned data.
@@ -72,99 +72,99 @@ Assignment: Implement a simple ML model using scikit-learn.
 🟡 Module 3: Supervised Learning Algorithms (Week 4-6)
 
 
- Regression Models
-✔ Linear Regression (Single & Multiple)
-✔ Polynomial Regression
-✔ Ridge & Lasso Regression
+ Regression Models <br>
+✔ Linear Regression (Single & Multiple) <br>
+✔ Polynomial Regression <br>
+✔ Ridge & Lasso Regression <br>
 
- Classification Models
-✔ Logistic Regression
-✔ Decision Trees
-✔ Random Forests
-✔ Support Vector Machines (SVM)
-✔ K-Nearest Neighbors (KNN)
-✔ Naive Bayes
+ Classification Models <br>
+✔ Logistic Regression <br>
+✔ Decision Trees <br>
+✔ Random Forests <br>
+✔ Support Vector Machines (SVM) <br>
+✔ K-Nearest Neighbors (KNN) <br>
+✔ Naive Bayes <br>
 
  Project: Predict House Prices using Regression Models.
 
-🟣 Module 4: Unsupervised Learning Algorithms (Week 7-8)
+🟣 Module 4: Unsupervised Learning Algorithms (Week 7-8) <br>
 
 
- Clustering
-✔ K-Means Clustering
-✔ DBSCAN
-✔ Hierarchical Clustering
+ Clustering <br>
+✔ K-Means Clustering <br>
+✔ DBSCAN <br>
+✔ Hierarchical Clustering <br>
 
- Dimensionality Reduction
-✔ Principal Component Analysis (PCA)
-✔ t-SNE
+ Dimensionality Reduction <br>
+✔ Principal Component Analysis (PCA) <br>
+✔ t-SNE <br>
 
  Project: Customer Segmentation for E-Commerce.
 
-🔵 Module 5: Neural Networks & Deep Learning (Week 9-12)
+🔵 Module 5: Neural Networks & Deep Learning (Week 9-12) <br>
 
 
-✔ Introduction to Artificial Neural Networks (ANNs)
-✔ Activation Functions (ReLU, Sigmoid, Tanh, Softmax)
-✔ Building a Neural Network from Scratch
-✔ Using TensorFlow & PyTorch
-✔ Convolutional Neural Networks (CNNs) for Image Classification
-✔ Recurrent Neural Networks (RNNs) for Time-Series Analysis
+✔ Introduction to Artificial Neural Networks (ANNs) <br>
+✔ Activation Functions (ReLU, Sigmoid, Tanh, Softmax) <br>
+✔ Building a Neural Network from Scratch <br>
+✔ Using TensorFlow & PyTorch <br>
+✔ Convolutional Neural Networks (CNNs) for Image Classification <br>
+✔ Recurrent Neural Networks (RNNs) for Time-Series Analysis <br>
 
  Project: Build an Image Classifier using CNN.
 
-🟤 Module 6: Reinforcement Learning (Week 13-14)
+🟤 Module 6: Reinforcement Learning (Week 13-14) <br>
 
 
-✔ Markov Decision Processes (MDP)
-✔ Q-Learning
-✔ Deep Q Networks (DQN)
-✔ Policy Gradient Methods
+✔ Markov Decision Processes (MDP) <br>
+✔ Q-Learning <br>
+✔ Deep Q Networks (DQN) <br>
+✔ Policy Gradient Methods <br>
 
  Project: Train an AI to play a simple game.
 
-🟠 Module 7: Advanced Topics (Week 15-18)
+🟠 Module 7: Advanced Topics (Week 15-18) <br>
 
 
-✔ Generative AI (GANs, Transformers, LLMs like GPT)
-✔ Explainable AI (XAI)
-✔ AI Ethics & Bias
-✔ AutoML (Automated Machine Learning)
+✔ Generative AI (GANs, Transformers, LLMs like GPT) <br>
+✔ Explainable AI (XAI) <br>
+✔ AI Ethics & Bias <br>
+✔ AutoML (Automated Machine Learning) <br>
 
  Capstone Project: Apply ML to finance, healthcare, or robotics.
 
- Tech Stack
-✔ Languages: Python 🐍
-✔ Libraries: NumPy, Pandas, Scikit-Learn, TensorFlow, PyTorch, Matplotlib, Seaborn
-✔ Tools: Jupyter Notebook, Google Colab, GitHub
+ Tech Stack <br>
+✔ Languages: Python 🐍 <br>
+✔ Libraries: NumPy, Pandas, Scikit-Learn, TensorFlow, PyTorch, Matplotlib, Seaborn <br>
+✔ Tools: Jupyter Notebook, Google Colab, GitHub <br>
 
 
 🚀 How to Run the Projects
 
-1️⃣ Clone the Repository
+1️⃣ Clone the Repository <br>
 
 git clone https://github.com/yourusername/your-repo-name.git
 cd your-repo-name
 
-2️⃣ Create a Virtual Environment (Recommended)
+2️⃣ Create a Virtual Environment (Recommended) <br>
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 
-3️⃣ Install Dependencies
+3️⃣ Install Dependencies <br>
 pip install -r requirements.txt
 
-4️⃣ Run Jupyter Notebook
+4️⃣ Run Jupyter Notebook <br>
 jupyter notebook
 
 
 5️⃣ Open & Run Notebooks 📖
 
 
- Resources
-📖 Books:
-📗 "Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow" - Aurélien Géron
-📙 "Pattern Recognition and Machine Learning" - Christopher Bishop
+ Resources <br>
+📖 Books: <br>
+📗 "Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow" - Aurélien Géron <br>
+📙 "Pattern Recognition and Machine Learning" - Christopher Bishop <br>
 
- Courses:
- Andrew Ng’s ML Course (Coursera)
+ Courses: <br>
+ Andrew Ng’s ML Course (Coursera) <br>
  Fast.ai Deep Learning Course
