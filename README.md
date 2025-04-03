@@ -143,12 +143,19 @@ Assignment: Implement a simple ML model using scikit-learn.
 
 1️⃣ Clone the Repository <br>
 
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+## 🚀 How to Run the Projects  
 
-2️⃣ Create a Virtual Environment (Recommended) <br>
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+### 1️⃣ Clone the Repository  <br>
+```bash
+git clone https://github.com/AAISHAA1585/MLChronicles.git<br>
+cd MLChronicles<br>
+
+
+
+2️⃣ Create a Virtual Environment (Recommended)<br>
+  python -m venv venv<br>
+venv\Scripts\activate<br>
+
 
 3️⃣ Install Dependencies <br>
 pip install -r requirements.txt
