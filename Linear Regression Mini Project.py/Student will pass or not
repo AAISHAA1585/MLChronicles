@@ -1,3 +1,4 @@
+ #Predict if a student will pass an exam based on study hours. by using Logistic Regression (for Classification)
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.linear_model import LogisticRegression
